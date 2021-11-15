@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7516
-Fork on GitHub
-1477
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Felipe Pirovano (Piro)</h1>
 <h3 align="center">Frontend developer from Brazil</h3>
 
