@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pirovinha" target="blank"><img src="https://img.shields.io/twitter/follow/pirovinha?logo=twitter&style=for-the-badge" alt="pirovinha" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, React, Typescript**
+- 🌱 I’m currently learning People Analytics**
 
 - 📫 How to reach me **felipepirovano95@gmail.com**
 
